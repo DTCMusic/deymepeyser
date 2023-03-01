@@ -59,9 +59,9 @@ else:
 temp = {}
 
 
-kurucu_id = 5237976814
+kurucu_id = 5809546648
 
-admins = [kurucu_id, 5237976814]
+admins = [kurucu_id, 5809546648]
 
 zaman_hassasiyeti = pow(10,6)
 
